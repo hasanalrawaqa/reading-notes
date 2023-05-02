@@ -32,3 +32,5 @@
 |SQL| [SQL](./SQL.md)
 |Command Line | [command Line](./Command-Line.md)
 |Growth Mindset | [Growth Mindset](./Growth-Mindset.md)
+|Reading class 01 | [Reading class 01](./reading-class01.md)
+
